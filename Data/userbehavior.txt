@@ -1,0 +1,16 @@
+Referrer,Location,Read FAQ,Pages Viewed,Service Chosen
+Slashdot,USA,Yes,18,None
+Google,France,Yes,23,Premium
+Digg,USA,Yes,24,Basic
+Kiwitobes,France,Yes,23,Basic
+Google,UK,No,21,Premium
+(direct),NewZealand,No,12,None
+(direct),UK,No,21,Basic
+Google,USA,No,24,Premium
+Slashdot,France,Yes,19,None
+Digg,USA,No,18,None
+Google,UK,No,18,None
+Kiwitobes,UK,No,19,None
+Digg,NewZealand,Yes,12,Basic
+Google,UK,Yes,18,Basic
+Kiwitobes,France,Yes,19,Basic

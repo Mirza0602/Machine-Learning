@@ -1,0 +1,18 @@
+image: python:3.10
+
+before_script:
+- pip install jupyter-book
+
+#build:
+#  script:
+#  - jupyter-book build --warningiserror --config _config_ci.yml .
+
+pages:
+  script:
+    - jupyter-book build --keep-going --config _config_ci.yml .
+    - cp -r _build/html/ public
+  artifacts:
+    paths:
+    - public
+  only:
+  - main

@@ -1,0 +1,25 @@
+format: jb-book
+root: Lecture/Overview.ipynb
+parts:
+- caption: Machine Learning with Scikit-Learn
+  chapters:
+  - file: Lecture/00BasicConcepts.ipynb
+  - file: Lecture/02RegressionPipe.ipynb
+  - file: Lecture/03ClassificationPipe.ipynb
+  - file: Lecture/05EnsembleMethods.ipynb
+  - file: Lecture/05Optimisation.ipynb
+- caption: Neural Networks
+  chapters:
+  - file: Lecture/01NeuralNets.ipynb
+  - file: Lecture/02RecurrentNeuralNetworks.ipynb
+  - file: Lecture/03ConvolutionNeuralNetworks.ipynb
+  - file: Lecture/01NeuralNetworkImplementation.ipynb
+  - file: Lecture/03KerasMLPandCNNcifar.ipynb
+  - file: Lecture/04KerasPretrainedClassifiers.ipynb
+  - file: Lecture/05KerasPretrainedCovid.ipynb
+  - file: Lecture/06KerasLSTMbikeRentalPrediction.ipynb
+  - file: Lecture/11ModellingWordsAndTexts.ipynb
+  - file: Lecture/08TextClassification.ipynb
+- caption: Appendix
+  chapters:
+  - file: Lecture/12FeatureSelection.ipynb
