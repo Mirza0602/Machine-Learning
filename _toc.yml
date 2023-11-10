@@ -17,8 +17,10 @@ parts:
   - file: 03KerasMLPandCNNcifar.ipynb
   - file: 04KerasPretrainedClassifiers.ipynb
   - file: 05KerasPretrainedCovid.ipynb
+  - file: 05HuggingFace.ipynb
   - file: 06KerasLSTMbikeRentalPrediction.ipynb
   - file: 11ModellingWordsAndTexts.ipynb
+  - file: 11Transformer
   - file: 08TextClassification.ipynb
 - caption: Appendix
   chapters:
